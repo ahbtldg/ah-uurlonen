@@ -1,6 +1,6 @@
 export const wukNabetaling = {
   2021: 64.0,
-  2022: null,
+  2022: 45.3,
 };
 // Bovenstaand object bevat de waardes voor de WUK nabetaling per jaar.
 // Let op! Het gaat hier om de nabetaling, een waarde die elk jaar variabel is.
